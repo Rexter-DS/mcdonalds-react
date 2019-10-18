@@ -1,0 +1,39 @@
+/* --------- Top Menu ---------- */
+
+.grey-text {
+  color: grey;
+}
+
+/* --------- Middle Menu ---------- */
+
+.grad-background {
+  background-image: url("https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/carousel/HPH_WakeUpBrek_Desktop_1260x560.jpg?$Hero_Desktop$");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  margin-top: 50px
+}
+
+.ui.overlaytext.container {
+  padding-top: 350px;
+  padding-left: 50px;
+}
+
+.ui.orderbutton.button {
+  background-color: #ffbc0d;
+}
+
+/* --------- Bottom Menu ---------- */
+
+.ui.footer.container {
+  padding-left: 25px;
+  padding-top: 50px;
+}
+
+/* --------- Footer ---------- */
+
+.ui.footer.menu {
+  padding-left: 12px;
+  border: none;
+  box-shadow: none;
+}
